@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "德云色",
+      "description": "Bilibili:7777",
+      "id": 1
+    },
+    {
+      "title": "LPL",
+      "description": "about lol ",
+      "id": 2
+    },
+    {
+      "title": "LCK",
+      "description": "LCK LOL champions",
+      "id": 3
+    }
+  ]
+}
